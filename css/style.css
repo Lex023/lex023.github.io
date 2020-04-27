@@ -1,0 +1,130 @@
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	background-color: #e8e8e8;
+}
+
+.big-block {
+	width: 1190px;
+height: 1064px;
+margin: 0 auto;
+
+background: url(../img/Ellipse_1_copy.png);
+}
+
+.travel {
+	opacity: 0.6;
+	color: #273d46;
+	line-height: 40px;
+	text-transform: uppercase;
+	letter-spacing: 2.8px;
+	text-align: center;
+	margin: auto;
+	margin-top: 168px;
+	margin-bottom: 8px;
+	width: 721px;
+}
+
+
+.below-travel {
+	color: #273d46;
+	font-family: "Times New Roman PSMT";
+	font-size: 36px;
+	line-height: 50px;
+	text-align: center;
+	width: 721px;
+	margin: auto;
+	margin-bottom: 80px;
+}
+
+.image {
+	/* Style for "Layer 1" uto auto / 1190px 1064px no-repeat */
+	width: 841px;
+	height: 561px;
+	box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
+	margin: auto;
+	margin-bottom: 99px;
+	border: 10px solid white;
+	display: block;
+	overflow: visible;
+	
+}
+
+.below-image {
+	width: 736px;
+	opacity: 0.8;
+	color: #273d46;
+	font-family: "Times New Roman PSMT";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 40px;
+	margin: auto;
+	margin-bottom: 137px;
+	margin-top: -146px;
+	
+}
+
+
+
+
+.list__first {
+	margin-top: 56px;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+	
+	font-weight: 400;
+	line-height: 36px;
+}
+.list__second {
+	color: #80b7b3;
+
+font-weight: 400;
+line-height: 36px;
+}
+
+.list__third {
+	
+
+font-weight: bold;
+line-height: 36px;
+}
+.list__fourth {
+font-weight: 400;
+line-height: 36px;
+text-decoration: line-through;
+}
+
+.list__fourth-opacity {
+	opacity: 0.3;
+}
+
+
+ul > li {
+	font-size: 20px;
+	color: #273d46;
+	padding-left: 30px;
+	background: url(../img/icon/check_icon.png)  left no-repeat;
+	
+	
+}
+
+.full-story {
+	margin-top: 51px;
+	width: 199px;
+height: 44px;
+box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+background: url(../img/icon/Shape_2.png) 151px 50% / 21px 14px no-repeat,  #80b7b3;
+border-radius: 22px;
+padding-left: 30px;
+
+
+}
+.full-story-text {
+	color: #ffffff;
+font-size: 14px;
+font-weight: 400;
+line-height: 40px;
+text-transform: uppercase;
+/* Text style for "Full Story" */
+letter-spacing: 2.8px;
+
+
+}
